@@ -1,4 +1,5 @@
 #!/bin/bash
+set -e
 
 # Environmental variables for tcnksm/ghr (passed from wercker.yml)
 VERSION="$WERCKER_GHR_VERSION"
