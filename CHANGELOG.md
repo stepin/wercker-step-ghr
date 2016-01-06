@@ -1,4 +1,4 @@
-## 0.5.1 (2016-01-06)
+## 0.5.3 (2016-01-06)
 
 - updated ghr to version 0.4.0is
 - disabled debug by default (security problem, leak of GitHub token for public wercker repos)

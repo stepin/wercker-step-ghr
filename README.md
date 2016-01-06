@@ -1,7 +1,7 @@
 Wercker step ghr [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://github.com/tcnksm/wercker-step-ghr/blob/master/LICENCE)
 ====
 
-[![wercker status](https://app.wercker.com/status/8e4b61d9c3fa9c2f3a41eac9569f21eb/m "wercker status")](https://app.wercker.com/project/bykey/8e4b61d9c3fa9c2f3a41eac9569f21eb)
+[![wercker status](https://app.wercker.com/status/764d2e0c53428ce47dcb3e9f3a2a0f22/s/master "wercker status")](https://app.wercker.com/project/bykey/764d2e0c53428ce47dcb3e9f3a2a0f22)
 
 This is [wercker](http://wercker.com/) deploy step for [tcnksm/ghr](https://github.com/tcnksm/ghr), create [Github Release](https://help.github.com/articles/creating-releases/) and uploading artifacts there. 
 
